@@ -1,2 +1,2 @@
 # Nnisa-resolusi
-Repository resolusi hari dan kedepannya
+Repository resolusi hari ini dan kedepannya
