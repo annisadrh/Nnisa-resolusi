@@ -3,6 +3,7 @@ Cireng isi
 - Isi Ayam
 - Isi Keju
 - Isi Sosis
+- Isi Ati Ampela
 Bakso luwes
 Bebek BTP
 Mie ayam asan
@@ -11,3 +12,4 @@ Seblak naik haji
 - pake dumpling basi
 Bambino
 Ayam geprek bangek nihan
+Somay depan Liv
